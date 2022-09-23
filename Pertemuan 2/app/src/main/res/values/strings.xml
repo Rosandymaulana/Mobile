@@ -1,0 +1,47 @@
+<resources>
+    <string name="helloWorldText">Hello World</string>
+    <string name="secondText">From string.xml</string>
+    <string name="startText">Start Learning</string>
+
+    <string name="successMessage">Welcome back, Maulana!</string>
+    <string name="warningMessage">Warning! the caps lock key is on</string>
+    <string name="alertMessage">Your email is not registered!</string>
+
+    <string name="simpleText">Simple avatar</string>
+
+    <string name="userInfo">Enter your email and password to login</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintPass">Password</string>
+    <string name="loginText">Login</string>
+    <string name="newAccountQuestion">New Account?</string>
+    <string name="registerText">Register</string>
+
+    <string name="app_name">Basic Grid</string>
+    <string name="sample_button">Free Sample</string>
+    <string name="buy_button">Buy IDR 89.790</string>
+    <string name="contentText">Lorem ipsum dolor sit amet,consectetur adipiscing elit, seddoeiusmod tempor incididunt ut laboreet
+dolore magna aliqua. Ut enimadminim veniam, quis nostrudexercitation ullamco laboris nisi ut
+aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+in voluptate velit esse cillumdoloreeufugiat nulla pariatur</string>
+
+    <string name="app_name_picture">Picture in Picture</string>
+    <string name="title">Aladdin (2019)</string>
+    <string name="publisher">Walt Disney Pictures</string>
+    <string name="description_book">Belle, a village girl, embarks onajourney to save her
+father from a creature that haslocked him in his dungeon. Eventually, she learns that
+the creature is an enchantedprince who has been cursed.</string>
+
+    <string name="box1_text">Box 1</string>
+    <string name="box2_text">Box 2</string>
+    <string name="box3_text">Box 3</string>
+    <string name="box4_text">Box 4</string>
+
+<!--    <string name="titleText">Score Board</string>-->
+    <string name="scoreTeam1_Text">3</string>
+    <string name="scoreTeam2_Text">0</string>
+
+<!--    <string name="app_name">photo sharing</string>-->
+    <string name="titleText">Holidays are Coming</string>
+    <string name="saveButtonText">Save</string>
+    <string name="shareButtonText">Share</string>
+</resources>

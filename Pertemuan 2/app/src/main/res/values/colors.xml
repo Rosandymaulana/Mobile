@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="redChilliColor">#FF0800</color>
+    <color name="greenTeaColor">#6ba36c</color>
+    <color name="yellowMayoColor">#e48900</color>
+
+    <color name="whiteColor">#FFFF</color>
+
+    <color name="maroonColor">#DC191F</color>
+    <color name="lightPink">#EA7777</color>
+    <color name="brokenWhite">#EAEAEA</color>
+
+    <color name="navyBlue">#293870</color>
+    <color name="creamColor">#D6D7D7</color>
+
+    <color name="lightPurple">#E0BBE4</color>
+    <color name="pastelViolet">#D291BC</color>
+    <color name="cottonCandy">#FEC8D8</color>
+    <color name="lumberColor">#FFDFD3</color>
+
+    <color name="darkgreen">#1e8449</color>
+    <color name="blueColor">#2471a3</color>
+    <color name="redColor">#e74c3c</color>
+
+    <color name="blackOlive">#323232</color>
+    <color name="redMate">#bd081c</color>
+</resources>

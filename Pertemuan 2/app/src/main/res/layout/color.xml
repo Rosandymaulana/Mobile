@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/colorsActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginRight="20dp"
+    android:layout_marginLeft="20dp"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:id="@+id/successTextView"
+        android:text="@string/successMessage"
+        android:textSize="26sp"
+        android:textColor="@color/greenTeaColor"
+        android:layout_centerHorizontal="true"
+        >
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:id="@+id/warningTextView"
+        android:text="@string/warningMessage"
+        android:textSize="26sp"
+        android:textColor="@color/yellowMayoColor"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/successTextView"
+        >
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:id="@+id/alertTextView"
+        android:text="@string/alertMessage"
+        android:textSize="26sp"
+        android:textColor="@color/redChilliColor"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/warningTextView"
+        >
+    </TextView>
+
+</RelativeLayout>

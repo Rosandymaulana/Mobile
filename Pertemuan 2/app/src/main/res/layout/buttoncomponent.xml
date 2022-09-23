@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/buttonActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:orientation="horizontal"
+    >
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/exitButton"
+        android:layout_weight="1"
+        android:text="Exit"
+        android:textSize="28sp"
+        android:background="#E49799"
+        android:layout_marginTop="90dp"
+        android:layout_marginRight="10dp"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/loginButton"
+        android:layout_weight="1"
+        android:text="Login"
+        android:textSize="28sp"
+        android:background="#89ECE2"
+        android:layout_marginTop="90dp"
+        android:layout_marginRight="10dp"
+        />
+</LinearLayout>

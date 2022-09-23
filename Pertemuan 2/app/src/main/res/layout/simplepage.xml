@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/loginActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/loginTextView"
+        android:text="Login Page"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="@color/colorAccent"
+        android:layout_marginTop="30dp"
+        >
+    </TextView>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/emailEditText"
+        android:hint="Email"
+        android:textSize="28sp"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="40dp"
+        >
+    </EditText>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/passwordEditText"
+        android:hint="Password"
+        android:textSize="28sp"
+        android:inputType="textPassword"
+        android:layout_marginTop="24dp"
+        >
+    </EditText>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/nestedView"
+        android:layout_marginTop="40dp"
+        android:orientation="horizontal"
+        >
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/exitButton"
+            android:layout_weight="1"
+            android:text="Exit"
+            android:textSize="28sp"
+            android:background="#E49799"
+            android:layout_marginRight="10dp"
+            >
+        </Button>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/loginButton"
+            android:layout_weight="1"
+            android:text="Login"
+            android:textSize="28sp"
+            android:background="#89ECE2"
+            android:layout_marginRight="10dp"
+            >
+        </Button>
+
+    </LinearLayout>
+
+</LinearLayout>
