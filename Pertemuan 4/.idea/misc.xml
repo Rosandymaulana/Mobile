@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Semester 5/Mobile/Pertemuan 4/app/src/main/res/layout/activity_detail.xml" value="0.1" />
+        <entry key="..\:/Semester 5/Mobile/Pertemuan 4/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Semester 5/Mobile/Pertemuan 4/app/src/main/res/layout/content_main.xml" value="0.176" />
+        <entry key="..\:/Semester 5/Mobile/Pertemuan 4/app/src/main/res/layout/recipe.xml" value="0.24895833333333334" />
+        <entry key="..\:/Semester 5/Mobile/Pertemuan 4/app/src/main/res/layout/recipe_list.xml" value="0.234375" />
         <entry key="..\:/Semester 5/Mobile/Pertemuan 4/app/src/main/res/layout/wordlist_item.xml" value="0.264" />
       </map>
     </option>

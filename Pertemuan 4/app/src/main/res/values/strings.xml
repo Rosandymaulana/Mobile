@@ -1,12 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">RecylerView</string>
     <string name="action_settings">Settings</string>
-    <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
     <string name="hello_first_fragment">Hello first fragment</string>
-    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="title_java">Java</string>
+    <string name="desc_java">Java is powering the innovation behind our digital world. Harness this potential with Java resources for student coders, hobbyists, developers, and IT leaders.</string>
+    <string name="details_java">
+        \n\n
+            Lorem Ipsum is simply dummy text of the printing and
+            typesetting industry. Lorem Ipsum has been the industry\'s
+            standard dummy text ever since the 1500s, when an unknown
+            printer took a galley of type and scrambled it to
+            make a type specimen book. It has survived not only five centuries,
+            but also the leap into electronic typesetting, remaining essentially unchanged
+    </string>
+
+    <string name="title_python">Python</string>
+    <string name="desc_python">Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library</string>
+    <string name="details_python">
+        \n\n
+            Lorem Ipsum is simply dummy text of the printing and
+            typesetting industry. Lorem Ipsum has been the industry\'s
+            standard dummy text ever since the 1500s, when an unknown
+            printer took a galley of type and scrambled it to
+            make a type specimen book. It has survived not only five centuries,
+            but also the leap into electronic typesetting, remaining essentially unchanged
+    </string>
+
+    <string name="title_php">PHP</string>
+    <string name="desc_php">A popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog</string>
+    <string name="details_php">
+        \n\n
+            Lorem Ipsum is simply dummy text of the printing and
+            typesetting industry. Lorem Ipsum has been the industry\'s
+            standard dummy text ever since the 1500s, when an unknown
+            printer took a galley of type and scrambled it to
+            make a type specimen book. It has survived not only five centuries,
+            but also the leap into electronic typesetting, remaining essentially unchanged
+    </string>
+
+    <string name="title_c">C</string>
+    <string name="desc_c">C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential.</string>
+    <string name="details_c">
+        \n\n
+            Lorem Ipsum is simply dummy text of the printing and
+            typesetting industry. Lorem Ipsum has been the industry\'s
+            standard dummy text ever since the 1500s, when an unknown
+            printer took a galley of type and scrambled it to
+            make a type specimen book. It has survived not only five centuries,
+            but also the leap into electronic typesetting, remaining essentially unchanged
+    </string>
+
+    <string name="title_ruby">Ruby</string>
+    <string name="desc_ruby">Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms.</string>
+    <string name="details_ruby">
+        \n\n
+            Lorem Ipsum is simply dummy text of the printing and
+            typesetting industry. Lorem Ipsum has been the industry\'s
+            standard dummy text ever since the 1500s, when an unknown
+            printer took a galley of type and scrambled it to
+            make a type specimen book. It has survived not only five centuries,
+            but also the leap into electronic typesetting, remaining essentially unchanged
+    </string>
+
+    <string name="recipe_image_desc">recipe image</string>
 </resources>
