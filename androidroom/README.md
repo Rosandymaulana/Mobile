@@ -7,23 +7,23 @@
     <thead>
         <tr>
             <th>Tampilan Awal</th>
-            <th>Pilihan</th>
+            <th>Tambah Data</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <img src="" width="250">
-            <img src="" width="250">
+            <img src="/images/tampilanAwal.jpg" width="250">
+            <img src="/images/tambahData.jpg" width="250">
         </tr>
     </tbody>
     <thead>
         <tr>
-            <th>Tambah Biodata</th>
+            <th>Data Berhasil Bertambah</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <img src="" width="250">
+            <img src="/images/dataBerhasil.jpg" width="250">
         </tr>
     </tbody>
 </table>
