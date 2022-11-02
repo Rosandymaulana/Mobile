@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Daftar Resep Makanan</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="button_tambah">Tambah</string>
+    <string name="button_hapus">Batal</string>
+    <string name="recipe_title">Daftar Resep</string>
+    <string name="recipe_description">Daftar semua nama resep yang disimpan</string>
+    <string name="add_hint_name">Masukkan nama resep</string>
+    <string name="add_hint_ingred">Masukkan daftar bahan masakan</string>
+    <string name="search_hint_ingred">Search ingredients</string>
+</resources>
